@@ -1,0 +1,5 @@
+[credential]
+	helper = osxkeychain
+[user]
+	name = megbedell
+	email = megbedell@gmail.com
